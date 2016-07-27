@@ -1,0 +1,4671 @@
+{
+  "lat": 37.4442283, 
+  "GET_INVENTORY": {
+    "inventory_delta": {
+      "inventory_items": [
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 224, 
+              "move_2": 90, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 33, 
+              "creation_time_ms": 1469505769518, 
+              "height_m": 0.9672264456748962, 
+              "stamina_max": 48, 
+              "weight_kg": 21.86750030517578, 
+              "individual_defense": 13, 
+              "stamina": 48, 
+              "individual_stamina": 8, 
+              "individual_attack": 12, 
+              "cp": 293, 
+              "id": 13323526728933178897
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 241, 
+              "move_2": 95, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 111, 
+              "creation_time_ms": 1469537092113, 
+              "height_m": 0.9292896389961243, 
+              "stamina_max": 52, 
+              "weight_kg": 79.73787689208984, 
+              "individual_defense": 8, 
+              "stamina": 52, 
+              "individual_stamina": 2, 
+              "individual_attack": 15, 
+              "cp": 182, 
+              "id": 14059080942492462660
+            }
+          }, 
+          "modified_timestamp_ms": 1469537092129
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 234, 
+              "move_2": 28, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 54, 
+              "creation_time_ms": 1469538295518, 
+              "height_m": 0.7576269507408142, 
+              "stamina_max": 45, 
+              "weight_kg": 16.29258155822754, 
+              "stamina": 45, 
+              "individual_stamina": 15, 
+              "individual_attack": 12, 
+              "cp": 260, 
+              "id": 3387530418795752550
+            }
+          }, 
+          "modified_timestamp_ms": 1469538295532
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 89, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 46, 
+              "creation_time_ms": 1469543326318, 
+              "height_m": 0.2988124191761017, 
+              "stamina_max": 46, 
+              "weight_kg": 4.4776611328125, 
+              "individual_defense": 13, 
+              "stamina": 46, 
+              "individual_stamina": 12, 
+              "individual_attack": 12, 
+              "cp": 449, 
+              "id": 14460327675853961705
+            }
+          }, 
+          "modified_timestamp_ms": 1469543326335
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 233, 
+              "move_2": 127, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 111, 
+              "creation_time_ms": 1469576668583, 
+              "height_m": 1.0171247720718384, 
+              "stamina_max": 84, 
+              "weight_kg": 102.78009796142578, 
+              "individual_defense": 11, 
+              "stamina": 84, 
+              "individual_stamina": 9, 
+              "individual_attack": 15, 
+              "cp": 457, 
+              "id": 7001034837982030901
+            }
+          }, 
+          "modified_timestamp_ms": 1469576668611
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 24, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 37, 
+              "creation_time_ms": 1469544290455, 
+              "height_m": 0.5441580414772034, 
+              "stamina_max": 26, 
+              "weight_kg": 8.891229629516602, 
+              "individual_defense": 15, 
+              "stamina": 26, 
+              "individual_stamina": 5, 
+              "individual_attack": 8, 
+              "cp": 121, 
+              "id": 4986240550480102347
+            }
+          }, 
+          "modified_timestamp_ms": 1469544290471
+        }, 
+        {
+          "inventory_item_data": {
+            "egg_incubators": {
+              "egg_incubator": {
+                "pokemon_id": 2003652846742490366, 
+                "start_km_walked": 20.177284240722656, 
+                "uses_remaining": 3, 
+                "target_km_walked": 25.177284240722656, 
+                "incubator_type": 1, 
+                "item_id": 902, 
+                "id": "EggIncubatorProto-54832829069356791"
+              }
+            }
+          }, 
+          "modified_timestamp_ms": 1469581072923
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 231, 
+              "move_2": 133, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 129, 
+              "creation_time_ms": 1469538361310, 
+              "height_m": 0.9793814420700073, 
+              "stamina_max": 13, 
+              "weight_kg": 12.93924617767334, 
+              "individual_defense": 3, 
+              "stamina": 13, 
+              "individual_stamina": 14, 
+              "individual_attack": 14, 
+              "cp": 25, 
+              "id": 8949862585676765560
+            }
+          }, 
+          "modified_timestamp_ms": 1469538361323
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 207, 
+              "move_2": 56, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 66, 
+              "creation_time_ms": 1469522496972, 
+              "height_m": 0.5600849986076355, 
+              "stamina_max": 73, 
+              "weight_kg": 7.811684608459473, 
+              "individual_defense": 12, 
+              "stamina": 73, 
+              "individual_stamina": 7, 
+              "individual_attack": 9, 
+              "cp": 399, 
+              "id": 8183303302488145192
+            }
+          }, 
+          "modified_timestamp_ms": 1469522496988
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "creation_time_ms": 1469573357900, 
+              "captured_cell_id": 9681710799618310144, 
+              "is_egg": true, 
+              "id": 6992430517701202317
+            }
+          }, 
+          "modified_timestamp_ms": 1469581062244
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 12, 
+              "times_encountered": 12, 
+              "pokedex_entry_number": 133
+            }
+          }, 
+          "modified_timestamp_ms": 1469571453883
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 227, 
+              "move_2": 63, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 74, 
+              "creation_time_ms": 1469568480579, 
+              "height_m": 0.41214242577552795, 
+              "stamina_max": 45, 
+              "weight_kg": 24.624631881713867, 
+              "individual_defense": 4, 
+              "stamina": 45, 
+              "individual_stamina": 12, 
+              "individual_attack": 12, 
+              "cp": 312, 
+              "id": 3599769748819410703
+            }
+          }, 
+          "modified_timestamp_ms": 1469568480594
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 228, 
+              "move_2": 31, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 28, 
+              "creation_time_ms": 1469577276475, 
+              "height_m": 1.141801357269287, 
+              "stamina_max": 46, 
+              "weight_kg": 44.9583625793457, 
+              "individual_defense": 11, 
+              "stamina": 46, 
+              "individual_stamina": 9, 
+              "individual_attack": 7, 
+              "cp": 225, 
+              "id": 16140211719023774795
+            }
+          }, 
+          "modified_timestamp_ms": 1469577276510
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 26, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 133, 
+              "creation_time_ms": 1469567838390, 
+              "height_m": 0.3506885766983032, 
+              "stamina_max": 52, 
+              "weight_kg": 8.651800155639648, 
+              "individual_defense": 8, 
+              "stamina": 52, 
+              "individual_stamina": 15, 
+              "individual_attack": 8, 
+              "cp": 283, 
+              "id": 3080162385743410964
+            }
+          }, 
+          "modified_timestamp_ms": 1469567838437
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 63, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 27, 
+              "creation_time_ms": 1469548402444, 
+              "height_m": 0.7427782416343689, 
+              "stamina_max": 46, 
+              "weight_kg": 17.361021041870117, 
+              "individual_defense": 9, 
+              "stamina": 46, 
+              "individual_stamina": 11, 
+              "individual_attack": 6, 
+              "cp": 200, 
+              "id": 293397886849604645
+            }
+          }, 
+          "modified_timestamp_ms": 1469548402460
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 51, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 52, 
+              "creation_time_ms": 1469573922744, 
+              "height_m": 0.4418039917945862, 
+              "stamina_max": 10, 
+              "weight_kg": 5.311906337738037, 
+              "individual_defense": 12, 
+              "stamina": 10, 
+              "individual_stamina": 13, 
+              "individual_attack": 9, 
+              "cp": 10, 
+              "id": 5780673856550911841
+            }
+          }, 
+          "modified_timestamp_ms": 1469573922762
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 230, 
+              "move_2": 53, 
+              "captured_cell_id": 9681725959565213696, 
+              "pokeball": 1, 
+              "pokemon_id": 120, 
+              "creation_time_ms": 1468291875413, 
+              "height_m": 0.7421225905418396, 
+              "stamina_max": 11, 
+              "weight_kg": 33.70222091674805, 
+              "individual_defense": 3, 
+              "stamina": 11, 
+              "individual_stamina": 7, 
+              "individual_attack": 14, 
+              "cp": 37, 
+              "id": 17532724745027217772
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 56, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 56, 
+              "creation_time_ms": 1469571314251, 
+              "height_m": 0.5114691853523254, 
+              "stamina_max": 41, 
+              "weight_kg": 31.499828338623047, 
+              "individual_defense": 9, 
+              "stamina": 41, 
+              "individual_stamina": 7, 
+              "individual_attack": 10, 
+              "cp": 292, 
+              "id": 410637800507418455
+            }
+          }, 
+          "modified_timestamp_ms": 1469571314268
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 207, 
+              "move_2": 51, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 57, 
+              "creation_time_ms": 1469530181039, 
+              "height_m": 1.006587028503418, 
+              "stamina_max": 55, 
+              "weight_kg": 29.418657302856445, 
+              "individual_defense": 9, 
+              "stamina": 55, 
+              "individual_stamina": 10, 
+              "individual_attack": 10, 
+              "cp": 447, 
+              "id": 8223321216279603560
+            }
+          }, 
+          "modified_timestamp_ms": 1469530181055
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 234, 
+              "move_2": 60, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 63, 
+              "creation_time_ms": 1469519667497, 
+              "height_m": 0.932341992855072, 
+              "stamina_max": 21, 
+              "weight_kg": 19.613670349121094, 
+              "individual_defense": 14, 
+              "stamina": 21, 
+              "individual_stamina": 2, 
+              "individual_attack": 12, 
+              "cp": 148, 
+              "id": 16272006531199842645
+            }
+          }, 
+          "modified_timestamp_ms": 1469519667515
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "creation_time_ms": 1469571486934, 
+              "captured_cell_id": 9681710800203415552, 
+              "is_egg": true, 
+              "id": 12935279659161971511
+            }
+          }, 
+          "modified_timestamp_ms": 1469581057471
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 236, 
+              "move_2": 90, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 23, 
+              "creation_time_ms": 1469570349064, 
+              "height_m": 1.693735957145691, 
+              "stamina_max": 40, 
+              "weight_kg": 4.784981727600098, 
+              "individual_defense": 13, 
+              "stamina": 40, 
+              "individual_stamina": 12, 
+              "individual_attack": 7, 
+              "cp": 301, 
+              "id": 13697295264397235959
+            }
+          }, 
+          "modified_timestamp_ms": 1469570349080
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 63, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 50, 
+              "creation_time_ms": 1469539573212, 
+              "height_m": 0.20568780601024628, 
+              "stamina_max": 13, 
+              "weight_kg": 0.7791846990585327, 
+              "individual_defense": 4, 
+              "stamina": 13, 
+              "individual_stamina": 11, 
+              "individual_attack": 13, 
+              "cp": 114, 
+              "id": 6718313610015522204
+            }
+          }, 
+          "modified_timestamp_ms": 1469539573229
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 64, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 74, 
+              "creation_time_ms": 1469577355522, 
+              "height_m": 0.4107699394226074, 
+              "stamina_max": 52, 
+              "weight_kg": 18.039670944213867, 
+              "individual_defense": 15, 
+              "stamina": 52, 
+              "individual_stamina": 12, 
+              "individual_attack": 13, 
+              "cp": 422, 
+              "id": 4221392359865731445
+            }
+          }, 
+          "modified_timestamp_ms": 1469577355542
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 135
+            }
+          }, 
+          "modified_timestamp_ms": 1469590224947
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 209, 
+              "move_2": 24, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 126, 
+              "creation_time_ms": 1469574020439, 
+              "height_m": 1.437597393989563, 
+              "stamina_max": 78, 
+              "weight_kg": 49.0948371887207, 
+              "individual_defense": 12, 
+              "stamina": 78, 
+              "individual_stamina": 9, 
+              "individual_attack": 2, 
+              "cp": 1066, 
+              "id": 8404601416481838825
+            }
+          }, 
+          "modified_timestamp_ms": 1469574020456
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 236, 
+              "move_2": 126, 
+              "captured_cell_id": 9681725868701908992, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 32, 
+              "creation_time_ms": 1469580902893, 
+              "height_m": 0.5711355209350586, 
+              "stamina_max": 31, 
+              "weight_kg": 12.811532974243164, 
+              "individual_defense": 15, 
+              "stamina": 31, 
+              "individual_stamina": 15, 
+              "individual_attack": 13, 
+              "cp": 111, 
+              "id": 15547912454419145492
+            }
+          }, 
+          "modified_timestamp_ms": 1469580902893
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 211, 
+              "move_2": 131, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 32, 
+              "creation_time_ms": 1469545221194, 
+              "height_m": 0.4555875360965729, 
+              "stamina_max": 37, 
+              "weight_kg": 5.684925079345703, 
+              "individual_defense": 7, 
+              "stamina": 37, 
+              "individual_stamina": 8, 
+              "individual_attack": 11, 
+              "cp": 171, 
+              "id": 12851320074479705108
+            }
+          }, 
+          "modified_timestamp_ms": 1469545221211
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 89, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 46, 
+              "creation_time_ms": 1469562126493, 
+              "height_m": 0.26378440856933594, 
+              "stamina_max": 42, 
+              "weight_kg": 4.334331035614014, 
+              "individual_defense": 10, 
+              "stamina": 42, 
+              "individual_stamina": 8, 
+              "individual_attack": 12, 
+              "cp": 409, 
+              "id": 18178652890054741349
+            }
+          }, 
+          "modified_timestamp_ms": 1469562126508
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 78, 
+              "captured_cell_id": 9681726548637384704, 
+              "pokeball": 1, 
+              "pokemon_id": 25, 
+              "creation_time_ms": 1469517665735, 
+              "height_m": 0.44023334980010986, 
+              "stamina_max": 33, 
+              "weight_kg": 6.705898284912109, 
+              "individual_defense": 7, 
+              "stamina": 33, 
+              "individual_stamina": 15, 
+              "individual_attack": 12, 
+              "cp": 214, 
+              "id": 11987684837774190410
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 239, 
+              "move_2": 45, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 18, 
+              "creation_time_ms": 1469514366682, 
+              "height_m": 1.5938565731048584, 
+              "stamina_max": 68, 
+              "weight_kg": 37.62117385864258, 
+              "individual_defense": 8, 
+              "stamina": 68, 
+              "individual_stamina": 6, 
+              "individual_attack": 15, 
+              "cp": 510, 
+              "id": 5937997587081431030
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 222, 
+              "move_2": 131, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 39, 
+              "creation_time_ms": 1469575750182, 
+              "height_m": 0.6401856541633606, 
+              "stamina_max": 59, 
+              "weight_kg": 8.721075057983398, 
+              "individual_defense": 15, 
+              "stamina": 59, 
+              "individual_stamina": 2, 
+              "individual_attack": 8, 
+              "cp": 87, 
+              "id": 15201855545881854184
+            }
+          }, 
+          "modified_timestamp_ms": 1469575750209
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 227, 
+              "move_2": 64, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 75, 
+              "creation_time_ms": 1469603720586, 
+              "height_m": 0.8217371702194214, 
+              "stamina_max": 63, 
+              "weight_kg": 72.80972290039062, 
+              "individual_defense": 6, 
+              "stamina": 63, 
+              "individual_stamina": 13, 
+              "individual_attack": 10, 
+              "cp": 574, 
+              "id": 9378982355623891837
+            }
+          }, 
+          "modified_timestamp_ms": 1469603720603
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 202, 
+              "move_2": 129, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 20, 
+              "creation_time_ms": 1469568569793, 
+              "height_m": 0.6240182518959045, 
+              "stamina_max": 59, 
+              "weight_kg": 15.170125007629395, 
+              "individual_defense": 7, 
+              "stamina": 59, 
+              "individual_stamina": 10, 
+              "individual_attack": 6, 
+              "cp": 521, 
+              "id": 17443441533333054039
+            }
+          }, 
+          "modified_timestamp_ms": 1469568569901
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 211, 
+              "move_2": 38, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 84, 
+              "creation_time_ms": 1469565643081, 
+              "height_m": 1.2947683334350586, 
+              "stamina_max": 43, 
+              "weight_kg": 30.276573181152344, 
+              "individual_defense": 3, 
+              "stamina": 43, 
+              "individual_stamina": 12, 
+              "individual_attack": 14, 
+              "cp": 360, 
+              "id": 18261717227739901056
+            }
+          }, 
+          "modified_timestamp_ms": 1469565643096
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 201, 
+              "move_2": 99, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 48, 
+              "creation_time_ms": 1469567688162, 
+              "height_m": 0.8456361889839172, 
+              "stamina_max": 12, 
+              "weight_kg": 24.777963638305664, 
+              "individual_defense": 7, 
+              "stamina": 12, 
+              "individual_stamina": 9, 
+              "individual_attack": 12, 
+              "cp": 13, 
+              "id": 8332613694602443710
+            }
+          }, 
+          "modified_timestamp_ms": 1469567688180
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 129, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 19, 
+              "creation_time_ms": 1469539549666, 
+              "height_m": 0.23188240826129913, 
+              "stamina_max": 38, 
+              "weight_kg": 1.6643154621124268, 
+              "individual_defense": 9, 
+              "stamina": 38, 
+              "individual_stamina": 9, 
+              "individual_attack": 6, 
+              "cp": 240, 
+              "id": 9536779741633685611
+            }
+          }, 
+          "modified_timestamp_ms": 1469539549694
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 126, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 128, 
+              "creation_time_ms": 1469566329758, 
+              "height_m": 1.2285702228546143, 
+              "stamina_max": 88, 
+              "weight_kg": 61.88966369628906, 
+              "individual_defense": 13, 
+              "stamina": 88, 
+              "individual_stamina": 6, 
+              "individual_attack": 1, 
+              "cp": 839, 
+              "id": 15296734836476116061
+            }
+          }, 
+          "modified_timestamp_ms": 1469566329773
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 216, 
+              "move_2": 20, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 98, 
+              "creation_time_ms": 1469539239927, 
+              "height_m": 0.4927820861339569, 
+              "stamina_max": 36, 
+              "weight_kg": 9.419529914855957, 
+              "individual_defense": 6, 
+              "stamina": 36, 
+              "individual_stamina": 6, 
+              "individual_attack": 13, 
+              "cp": 342, 
+              "id": 1304832574700240653
+            }
+          }, 
+          "modified_timestamp_ms": 1469539239940
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 26, 
+              "captured_cell_id": 9263828567198793728, 
+              "pokeball": 1, 
+              "pokemon_id": 19, 
+              "creation_time_ms": 1469604910066, 
+              "height_m": 0.2719475030899048, 
+              "stamina_max": 27, 
+              "weight_kg": 2.49151873588562, 
+              "individual_defense": 9, 
+              "stamina": 27, 
+              "individual_stamina": 12, 
+              "individual_attack": 5, 
+              "cp": 112, 
+              "id": 12599134309467626229
+            }
+          }, 
+          "modified_timestamp_ms": 1469604910086
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 3, 
+              "times_encountered": 3, 
+              "pokedex_entry_number": 138
+            }
+          }, 
+          "modified_timestamp_ms": 1469577029446
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 121, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 16, 
+              "creation_time_ms": 1469576113194, 
+              "height_m": 0.2593618631362915, 
+              "stamina_max": 39, 
+              "weight_kg": 1.5716317892074585, 
+              "individual_defense": 10, 
+              "stamina": 39, 
+              "individual_stamina": 13, 
+              "individual_attack": 1, 
+              "cp": 163, 
+              "id": 2358822318305619652
+            }
+          }, 
+          "modified_timestamp_ms": 1469576113225
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 202, 
+              "move_2": 16, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 24, 
+              "creation_time_ms": 1469569041139, 
+              "height_m": 3.3656580448150635, 
+              "stamina_max": 70, 
+              "weight_kg": 65.0, 
+              "individual_defense": 4, 
+              "stamina": 70, 
+              "individual_stamina": 5, 
+              "individual_attack": 5, 
+              "cp": 800, 
+              "id": 4839675715039259784
+            }
+          }, 
+          "modified_timestamp_ms": 1469590388702
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 90, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 41, 
+              "creation_time_ms": 1469538062243, 
+              "height_m": 1.0476378202438354, 
+              "stamina_max": 44, 
+              "weight_kg": 12.346047401428223, 
+              "individual_defense": 11, 
+              "stamina": 44, 
+              "individual_stamina": 12, 
+              "individual_attack": 8, 
+              "cp": 214, 
+              "id": 6707946760126444252
+            }
+          }, 
+          "modified_timestamp_ms": 1469538062256
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 233, 
+              "move_2": 95, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 111, 
+              "creation_time_ms": 1469538888318, 
+              "height_m": 1.1070334911346436, 
+              "stamina_max": 73, 
+              "weight_kg": 145.16799926757812, 
+              "individual_defense": 4, 
+              "stamina": 73, 
+              "individual_stamina": 15, 
+              "individual_attack": 14, 
+              "cp": 320, 
+              "id": 9131420463574585125
+            }
+          }, 
+          "modified_timestamp_ms": 1469538888335
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 233, 
+              "move_2": 127, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 111, 
+              "creation_time_ms": 1469524342640, 
+              "height_m": 1.0155822038650513, 
+              "stamina_max": 52, 
+              "weight_kg": 121.79259490966797, 
+              "individual_defense": 8, 
+              "stamina": 52, 
+              "individual_stamina": 4, 
+              "individual_attack": 15, 
+              "cp": 183, 
+              "id": 15681844126993037034
+            }
+          }, 
+          "modified_timestamp_ms": 1469524342652
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 216, 
+              "move_2": 64, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 27, 
+              "creation_time_ms": 1469571303786, 
+              "height_m": 0.6175229549407959, 
+              "stamina_max": 17, 
+              "weight_kg": 12.67051887512207, 
+              "individual_defense": 14, 
+              "stamina": 17, 
+              "individual_stamina": 6, 
+              "individual_attack": 8, 
+              "cp": 31, 
+              "id": 11620369982639801902
+            }
+          }, 
+          "modified_timestamp_ms": 1469571303802
+        }, 
+        {
+          "inventory_item_data": {
+            "item": {
+              "item_id": 701, 
+              "count": 10
+            }
+          }, 
+          "modified_timestamp_ms": 1469603726943
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 80, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 16, 
+              "creation_time_ms": 1469536747230, 
+              "height_m": 0.2968146502971649, 
+              "stamina_max": 46, 
+              "weight_kg": 1.7720690965652466, 
+              "individual_defense": 15, 
+              "stamina": 46, 
+              "individual_stamina": 14, 
+              "individual_attack": 2, 
+              "cp": 238, 
+              "id": 10014704758930807103
+            }
+          }, 
+          "modified_timestamp_ms": 1469536748411
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 214, 
+              "move_2": 118, 
+              "captured_cell_id": 9681725960888516608, 
+              "pokeball": 1, 
+              "pokemon_id": 69, 
+              "creation_time_ms": 1468294438986, 
+              "height_m": 0.8060199022293091, 
+              "stamina_max": 18, 
+              "weight_kg": 5.158446311950684, 
+              "individual_defense": 1, 
+              "stamina": 18, 
+              "individual_stamina": 14, 
+              "individual_attack": 12, 
+              "cp": 44, 
+              "id": 5515370227456123469
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 235, 
+              "move_2": 59, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 102, 
+              "creation_time_ms": 1469575454868, 
+              "height_m": 0.3686620891094208, 
+              "stamina_max": 62, 
+              "weight_kg": 2.0845272541046143, 
+              "individual_defense": 7, 
+              "stamina": 62, 
+              "individual_stamina": 10, 
+              "individual_attack": 14, 
+              "cp": 386, 
+              "id": 4100772961300940420
+            }
+          }, 
+          "modified_timestamp_ms": 1469575454896
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 3, 
+              "times_encountered": 3, 
+              "pokedex_entry_number": 140
+            }
+          }, 
+          "modified_timestamp_ms": 1469574602305
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 200, 
+              "move_2": 20, 
+              "captured_cell_id": 9681725960882225152, 
+              "pokeball": 1, 
+              "favorite": 1, 
+              "pokemon_id": 127, 
+              "creation_time_ms": 1468294413090, 
+              "height_m": 1.0944969654083252, 
+              "stamina_max": 23, 
+              "weight_kg": 31.8947811126709, 
+              "individual_defense": 10, 
+              "stamina": 23, 
+              "individual_stamina": 13, 
+              "individual_attack": 14, 
+              "cp": 91, 
+              "id": 13758757740715105008
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 1, 
+              "candy": 9
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 202, 
+              "move_2": 16, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 52, 
+              "creation_time_ms": 1469525948540, 
+              "height_m": 0.3272043764591217, 
+              "stamina_max": 41, 
+              "weight_kg": 2.5283126831054688, 
+              "individual_defense": 12, 
+              "stamina": 41, 
+              "individual_stamina": 6, 
+              "individual_attack": 13, 
+              "cp": 259, 
+              "id": 15339841247887356026
+            }
+          }, 
+          "modified_timestamp_ms": 1469525948552
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 4, 
+              "candy": 3
+            }
+          }, 
+          "modified_timestamp_ms": 1469574578612
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 7, 
+              "candy": 3
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 237, 
+              "move_2": 105, 
+              "captured_cell_id": 9285538755143270400, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 98, 
+              "creation_time_ms": 1469580902893, 
+              "height_m": 0.45431801676750183, 
+              "stamina_max": 22, 
+              "weight_kg": 8.956464767456055, 
+              "individual_defense": 10, 
+              "stamina": 22, 
+              "individual_stamina": 11, 
+              "individual_attack": 14, 
+              "cp": 123, 
+              "id": 15612993329504958377
+            }
+          }, 
+          "modified_timestamp_ms": 1469580902893
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 10, 
+              "candy": 34
+            }
+          }, 
+          "modified_timestamp_ms": 1469575523781
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 13, 
+              "candy": 14
+            }
+          }, 
+          "modified_timestamp_ms": 1469567110680
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 16, 
+              "candy": 7
+            }
+          }, 
+          "modified_timestamp_ms": 1469604943049
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 19, 
+              "candy": 223
+            }
+          }, 
+          "modified_timestamp_ms": 1469604910086
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 21, 
+              "candy": 25
+            }
+          }, 
+          "modified_timestamp_ms": 1469576405952
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 23, 
+              "candy": 89
+            }
+          }, 
+          "modified_timestamp_ms": 1469604314846
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 100, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 46, 
+              "creation_time_ms": 1469527771046, 
+              "height_m": 0.29348158836364746, 
+              "stamina_max": 40, 
+              "weight_kg": 5.1888957023620605, 
+              "individual_defense": 13, 
+              "stamina": 40, 
+              "individual_stamina": 8, 
+              "individual_attack": 13, 
+              "cp": 368, 
+              "id": 9722911709913797099
+            }
+          }, 
+          "modified_timestamp_ms": 1469527771061
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 25, 
+              "candy": 10
+            }
+          }, 
+          "modified_timestamp_ms": 1469527141491
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 27, 
+              "candy": 69
+            }
+          }, 
+          "modified_timestamp_ms": 1469577276510
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 209, 
+              "move_2": 115, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 126, 
+              "creation_time_ms": 1469530827147, 
+              "height_m": 1.375038981437683, 
+              "stamina_max": 62, 
+              "weight_kg": 39.62627410888672, 
+              "individual_defense": 4, 
+              "stamina": 62, 
+              "individual_stamina": 10, 
+              "individual_attack": 2, 
+              "cp": 638, 
+              "id": 6000160787372067897
+            }
+          }, 
+          "modified_timestamp_ms": 1469530827162
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 29, 
+              "candy": 11
+            }
+          }, 
+          "modified_timestamp_ms": 1469545639404
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 45, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 84, 
+              "creation_time_ms": 1469567713043, 
+              "height_m": 1.5498015880584717, 
+              "stamina_max": 44, 
+              "weight_kg": 42.78548812866211, 
+              "individual_defense": 14, 
+              "stamina": 44, 
+              "individual_stamina": 7, 
+              "individual_attack": 14, 
+              "cp": 436, 
+              "id": 4650564949037100193
+            }
+          }, 
+          "modified_timestamp_ms": 1469567713064
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 225, 
+              "move_2": 92, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 23, 
+              "creation_time_ms": 1469569152727, 
+              "height_m": 1.645671010017395, 
+              "stamina_max": 43, 
+              "weight_kg": 5.2354326248168945, 
+              "individual_defense": 4, 
+              "stamina": 43, 
+              "individual_stamina": 14, 
+              "individual_attack": 6, 
+              "cp": 311, 
+              "id": 1602468220871509162
+            }
+          }, 
+          "modified_timestamp_ms": 1469569152754
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 32, 
+              "candy": 64
+            }
+          }, 
+          "modified_timestamp_ms": 1469590694966
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 37, 
+              "candy": 3
+            }
+          }, 
+          "modified_timestamp_ms": 1469544290472
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 39, 
+              "candy": 6
+            }
+          }, 
+          "modified_timestamp_ms": 1469575750209
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 41, 
+              "candy": 143
+            }
+          }, 
+          "modified_timestamp_ms": 1469603727560
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 43, 
+              "candy": 11
+            }
+          }, 
+          "modified_timestamp_ms": 1469518768411
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 46, 
+              "candy": 167
+            }
+          }, 
+          "modified_timestamp_ms": 1469604860361
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 48, 
+              "candy": 77
+            }
+          }, 
+          "modified_timestamp_ms": 1469575436563
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 50, 
+              "candy": 10
+            }
+          }, 
+          "modified_timestamp_ms": 1469562140987
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 205, 
+              "move_2": 77, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 125, 
+              "creation_time_ms": 1469514701183, 
+              "height_m": 1.1923514604568481, 
+              "stamina_max": 55, 
+              "weight_kg": 39.084842681884766, 
+              "individual_defense": 10, 
+              "stamina": 55, 
+              "individual_stamina": 1, 
+              "individual_attack": 2, 
+              "cp": 532, 
+              "id": 8217598446651524947
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 52, 
+              "candy": 17
+            }
+          }, 
+          "modified_timestamp_ms": 1469573922763
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 54, 
+              "candy": 3
+            }
+          }, 
+          "modified_timestamp_ms": 1469538295532
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 56, 
+              "candy": 59
+            }
+          }, 
+          "modified_timestamp_ms": 1469603987496
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 58, 
+              "candy": 50
+            }
+          }, 
+          "modified_timestamp_ms": 1469603935555
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 227, 
+              "move_2": 26, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 74, 
+              "creation_time_ms": 1469541072931, 
+              "height_m": 0.30212172865867615, 
+              "stamina_max": 42, 
+              "weight_kg": 12.780346870422363, 
+              "individual_defense": 11, 
+              "stamina": 42, 
+              "individual_stamina": 12, 
+              "individual_attack": 15, 
+              "cp": 282, 
+              "id": 1168814470377877385
+            }
+          }, 
+          "modified_timestamp_ms": 1469541072952
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 60, 
+              "candy": 7
+            }
+          }, 
+          "modified_timestamp_ms": 1469604578025
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 228, 
+              "move_2": 31, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 28, 
+              "creation_time_ms": 1469568851808, 
+              "height_m": 0.9275078177452087, 
+              "stamina_max": 86, 
+              "weight_kg": 28.3998966217041, 
+              "individual_defense": 14, 
+              "stamina": 86, 
+              "individual_stamina": 3, 
+              "individual_attack": 7, 
+              "cp": 850, 
+              "id": 499427211946632136
+            }
+          }, 
+          "modified_timestamp_ms": 1469568851837
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 234, 
+              "move_2": 60, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 63, 
+              "creation_time_ms": 1469566617777, 
+              "height_m": 0.9456544518470764, 
+              "stamina_max": 30, 
+              "weight_kg": 18.828857421875, 
+              "individual_defense": 8, 
+              "stamina": 30, 
+              "individual_stamina": 11, 
+              "individual_attack": 6, 
+              "cp": 207, 
+              "id": 16768696292784498979
+            }
+          }, 
+          "modified_timestamp_ms": 1469566617807
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 63, 
+              "candy": 29
+            }
+          }, 
+          "modified_timestamp_ms": 1469569767269
+        }, 
+        {
+          "inventory_item_data": {
+            "item": {
+              "item_id": 1, 
+              "count": 28
+            }
+          }, 
+          "modified_timestamp_ms": 1469604910085
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 66, 
+              "candy": 14
+            }
+          }, 
+          "modified_timestamp_ms": 1469545583425
+        }, 
+        {
+          "inventory_item_data": {
+            "item": {
+              "item_id": 2, 
+              "count": 168
+            }
+          }, 
+          "modified_timestamp_ms": 1469577631550
+        }, 
+        {
+          "inventory_item_data": {
+            "item": {
+              "item_id": 3, 
+              "count": 25
+            }
+          }, 
+          "modified_timestamp_ms": 1469580905300
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 69, 
+              "candy": 3
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 211, 
+              "move_2": 90, 
+              "captured_cell_id": 9681726548637384704, 
+              "pokeball": 1, 
+              "pokemon_id": 32, 
+              "creation_time_ms": 1469590694941, 
+              "height_m": 0.4101126790046692, 
+              "stamina_max": 40, 
+              "weight_kg": 6.261685371398926, 
+              "individual_defense": 4, 
+              "stamina": 40, 
+              "individual_stamina": 5, 
+              "individual_attack": 7, 
+              "cp": 203, 
+              "id": 10815211208352692765
+            }
+          }, 
+          "modified_timestamp_ms": 1469590694966
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 209, 
+              "move_2": 101, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 77, 
+              "creation_time_ms": 1469603693131, 
+              "height_m": 1.0546292066574097, 
+              "stamina_max": 67, 
+              "weight_kg": 35.72624588012695, 
+              "individual_defense": 5, 
+              "stamina": 67, 
+              "individual_stamina": 13, 
+              "individual_attack": 7, 
+              "cp": 793, 
+              "id": 3431945846494448449
+            }
+          }, 
+          "modified_timestamp_ms": 1469603693150
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 74, 
+              "candy": 73
+            }
+          }, 
+          "modified_timestamp_ms": 1469603720603
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 202, 
+              "move_2": 24, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 58, 
+              "creation_time_ms": 1469603705568, 
+              "height_m": 0.7402371168136597, 
+              "stamina_max": 66, 
+              "weight_kg": 20.3795223236084, 
+              "stamina": 66, 
+              "individual_stamina": 11, 
+              "individual_attack": 15, 
+              "cp": 598, 
+              "id": 6294183697647413902
+            }
+          }, 
+          "modified_timestamp_ms": 1469603705584
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 211, 
+              "move_2": 105, 
+              "captured_cell_id": 9926596584236122112, 
+              "pokeball": 1, 
+              "pokemon_id": 118, 
+              "creation_time_ms": 1469604567598, 
+              "height_m": 0.5392682552337646, 
+              "stamina_max": 51, 
+              "weight_kg": 11.248213768005371, 
+              "individual_defense": 4, 
+              "stamina": 51, 
+              "individual_stamina": 10, 
+              "individual_attack": 15, 
+              "cp": 387, 
+              "id": 1451984184581311006
+            }
+          }, 
+          "modified_timestamp_ms": 1469604567614
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 77, 
+              "candy": 4
+            }
+          }, 
+          "modified_timestamp_ms": 1469603693150
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 84, 
+              "candy": 29
+            }
+          }, 
+          "modified_timestamp_ms": 1469603886436
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 90, 
+              "candy": 21
+            }
+          }, 
+          "modified_timestamp_ms": 1469545282526
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 98, 
+              "candy": 41
+            }
+          }, 
+          "modified_timestamp_ms": 1469580902894
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 121, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 41, 
+              "creation_time_ms": 1469573692340, 
+              "height_m": 0.643380880355835, 
+              "stamina_max": 34, 
+              "weight_kg": 4.089507579803467, 
+              "individual_defense": 6, 
+              "stamina": 34, 
+              "individual_stamina": 11, 
+              "individual_attack": 9, 
+              "cp": 127, 
+              "id": 11298690631190056589
+            }
+          }, 
+          "modified_timestamp_ms": 1469573692356
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 239, 
+              "move_2": 45, 
+              "captured_cell_id": 9681726548637384704, 
+              "pokeball": 1, 
+              "pokemon_id": 17, 
+              "creation_time_ms": 1469517900733, 
+              "height_m": 1.0034884214401245, 
+              "stamina_max": 62, 
+              "weight_kg": 23.193283081054688, 
+              "individual_defense": 10, 
+              "stamina": 62, 
+              "individual_stamina": 8, 
+              "individual_attack": 6, 
+              "cp": 376, 
+              "id": 4648358881919786625
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 102, 
+              "candy": 7
+            }
+          }, 
+          "modified_timestamp_ms": 1469575480788
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 104, 
+              "candy": 15
+            }
+          }, 
+          "modified_timestamp_ms": 1469545463399
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 216, 
+              "move_2": 105, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 98, 
+              "creation_time_ms": 1469577866931, 
+              "height_m": 0.4368671476840973, 
+              "stamina_max": 18, 
+              "weight_kg": 7.7397637367248535, 
+              "individual_defense": 6, 
+              "stamina": 18, 
+              "individual_stamina": 4, 
+              "individual_attack": 13, 
+              "cp": 93, 
+              "id": 2828055276956494116
+            }
+          }, 
+          "modified_timestamp_ms": 1469577866949
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 111, 
+              "candy": 23
+            }
+          }, 
+          "modified_timestamp_ms": 1469576668611
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 118, 
+              "candy": 3
+            }
+          }, 
+          "modified_timestamp_ms": 1469604567614
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 234, 
+              "move_2": 31, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 128, 
+              "creation_time_ms": 1469548745539, 
+              "height_m": 1.3464950323104858, 
+              "stamina_max": 86, 
+              "weight_kg": 82.61355590820312, 
+              "individual_defense": 14, 
+              "stamina": 86, 
+              "individual_stamina": 2, 
+              "individual_attack": 3, 
+              "cp": 841, 
+              "id": 5657288663285320655
+            }
+          }, 
+          "modified_timestamp_ms": 1469548745553
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 120, 
+              "candy": 10
+            }
+          }, 
+          "modified_timestamp_ms": 1469574850295
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 230, 
+              "move_2": 104, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 138, 
+              "creation_time_ms": 1469577029412, 
+              "height_m": 0.39570295810699463, 
+              "stamina_max": 32, 
+              "weight_kg": 8.573238372802734, 
+              "individual_defense": 13, 
+              "stamina": 32, 
+              "individual_stamina": 4, 
+              "individual_attack": 15, 
+              "cp": 326, 
+              "id": 10834454749524043925
+            }
+          }, 
+          "modified_timestamp_ms": 1469577029446
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 125, 
+              "candy": 7
+            }
+          }, 
+          "modified_timestamp_ms": 1469565795734
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 126, 
+              "candy": 76
+            }
+          }, 
+          "modified_timestamp_ms": 1469603964652
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 127, 
+              "candy": 7
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 129, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 20, 
+              "creation_time_ms": 1469530761997, 
+              "height_m": 0.7210679650306702, 
+              "stamina_max": 35, 
+              "weight_kg": 18.158496856689453, 
+              "individual_defense": 3, 
+              "stamina": 35, 
+              "individual_stamina": 14, 
+              "individual_attack": 6, 
+              "cp": 176, 
+              "id": 6624409801122661903
+            }
+          }, 
+          "modified_timestamp_ms": 1469530762015
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 31, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 128, 
+              "creation_time_ms": 1469543218865, 
+              "height_m": 1.194454312324524, 
+              "stamina_max": 77, 
+              "weight_kg": 57.87330627441406, 
+              "individual_defense": 5, 
+              "stamina": 77, 
+              "individual_stamina": 10, 
+              "individual_attack": 2, 
+              "cp": 605, 
+              "id": 1387243802102425839
+            }
+          }, 
+          "modified_timestamp_ms": 1469543218883
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 238, 
+              "move_2": 84, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 39, 
+              "creation_time_ms": 1469568536279, 
+              "height_m": 0.5218958854675293, 
+              "stamina_max": 68, 
+              "weight_kg": 6.419483184814453, 
+              "individual_defense": 5, 
+              "stamina": 68, 
+              "individual_stamina": 5, 
+              "individual_attack": 12, 
+              "cp": 109, 
+              "id": 6401127407202980737
+            }
+          }, 
+          "modified_timestamp_ms": 1469568536294
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 209, 
+              "move_2": 131, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 58, 
+              "creation_time_ms": 1469568544965, 
+              "height_m": 0.6010249853134155, 
+              "stamina_max": 62, 
+              "weight_kg": 11.415980339050293, 
+              "individual_defense": 1, 
+              "stamina": 62, 
+              "individual_stamina": 15, 
+              "individual_attack": 11, 
+              "cp": 491, 
+              "id": 2439934162133519198
+            }
+          }, 
+          "modified_timestamp_ms": 1469568544994
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 208, 
+              "move_2": 103, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 126, 
+              "creation_time_ms": 1469548722010, 
+              "height_m": 1.3019269704818726, 
+              "stamina_max": 58, 
+              "weight_kg": 41.129783630371094, 
+              "individual_defense": 11, 
+              "stamina": 58, 
+              "individual_stamina": 2, 
+              "individual_attack": 3, 
+              "cp": 636, 
+              "id": 10881999779519573772
+            }
+          }, 
+          "modified_timestamp_ms": 1469548722025
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 216, 
+              "move_2": 26, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 27, 
+              "creation_time_ms": 1469513690734, 
+              "height_m": 0.6563016176223755, 
+              "stamina_max": 45, 
+              "weight_kg": 12.677578926086426, 
+              "individual_defense": 8, 
+              "stamina": 45, 
+              "individual_stamina": 7, 
+              "individual_attack": 14, 
+              "cp": 212, 
+              "id": 12498659352821461802
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 65, 
+              "captured_cell_id": 9681726548637384704, 
+              "pokeball": 1, 
+              "pokemon_id": 121, 
+              "creation_time_ms": 1469517748739, 
+              "height_m": 1.1725003719329834, 
+              "stamina_max": 53, 
+              "weight_kg": 100.44212341308594, 
+              "individual_defense": 3, 
+              "stamina": 53, 
+              "individual_stamina": 14, 
+              "individual_attack": 15, 
+              "cp": 539, 
+              "id": 825561330807876631
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 89, 
+              "captured_cell_id": 9263828567198793728, 
+              "pokeball": 1, 
+              "pokemon_id": 46, 
+              "creation_time_ms": 1469604860346, 
+              "height_m": 0.26318827271461487, 
+              "stamina_max": 44, 
+              "weight_kg": 4.023489475250244, 
+              "individual_defense": 9, 
+              "stamina": 44, 
+              "individual_stamina": 13, 
+              "individual_attack": 13, 
+              "cp": 398, 
+              "id": 2723122444311880041
+            }
+          }, 
+          "modified_timestamp_ms": 1469604860361
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 126, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 128, 
+              "creation_time_ms": 1469575516862, 
+              "height_m": 1.2957038879394531, 
+              "stamina_max": 81, 
+              "weight_kg": 64.64054107666016, 
+              "individual_defense": 5, 
+              "stamina": 81, 
+              "individual_stamina": 3, 
+              "individual_attack": 2, 
+              "cp": 728, 
+              "id": 16296565263624921278
+            }
+          }, 
+          "modified_timestamp_ms": 1469575516882
+        }, 
+        {
+          "inventory_item_data": {
+            "item": {
+              "item_id": 101, 
+              "count": 10
+            }
+          }, 
+          "modified_timestamp_ms": 1469578123981
+        }, 
+        {
+          "inventory_item_data": {
+            "item": {
+              "item_id": 102, 
+              "count": 10
+            }
+          }, 
+          "modified_timestamp_ms": 1469577945865
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 21, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 77, 
+              "creation_time_ms": 1469569491539, 
+              "height_m": 1.0759555101394653, 
+              "stamina_max": 54, 
+              "weight_kg": 38.460899353027344, 
+              "stamina": 54, 
+              "individual_stamina": 6, 
+              "individual_attack": 13, 
+              "cp": 586, 
+              "id": 17631945164320887186
+            }
+          }, 
+          "modified_timestamp_ms": 1469569491555
+        }, 
+        {
+          "inventory_item_data": {
+            "item": {
+              "item_id": 103, 
+              "count": 85
+            }
+          }, 
+          "modified_timestamp_ms": 1469580905300
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 241, 
+              "move_2": 127, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 111, 
+              "creation_time_ms": 1469534568608, 
+              "height_m": 0.979748010635376, 
+              "stamina_max": 56, 
+              "weight_kg": 126.95638275146484, 
+              "individual_defense": 6, 
+              "stamina": 56, 
+              "individual_stamina": 15, 
+              "individual_attack": 15, 
+              "cp": 188, 
+              "id": 1787784091002363424
+            }
+          }, 
+          "modified_timestamp_ms": 1469534568624
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "creation_time_ms": 1469504337140, 
+              "captured_cell_id": 9681710799804956672, 
+              "is_egg": true, 
+              "id": 191277719396120786
+            }
+          }, 
+          "modified_timestamp_ms": 1469581066053
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 128, 
+              "candy": 93
+            }
+          }, 
+          "modified_timestamp_ms": 1469603701439
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 201, 
+              "move_2": 30, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 48, 
+              "creation_time_ms": 1469571800414, 
+              "height_m": 0.9788070917129517, 
+              "stamina_max": 68, 
+              "weight_kg": 28.725595474243164, 
+              "individual_defense": 6, 
+              "stamina": 68, 
+              "individual_stamina": 1, 
+              "individual_attack": 10, 
+              "cp": 464, 
+              "id": 3357490071554178018
+            }
+          }, 
+          "modified_timestamp_ms": 1469571800431
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 236, 
+              "move_2": 13, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 23, 
+              "creation_time_ms": 1469576288990, 
+              "height_m": 2.0843393802642822, 
+              "stamina_max": 36, 
+              "weight_kg": 8.08076000213623, 
+              "individual_defense": 15, 
+              "stamina": 36, 
+              "individual_stamina": 9, 
+              "individual_attack": 5, 
+              "cp": 251, 
+              "id": 1603061934999867056
+            }
+          }, 
+          "modified_timestamp_ms": 1469576289006
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 26, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 27, 
+              "creation_time_ms": 1469576964284, 
+              "height_m": 0.6701193451881409, 
+              "stamina_max": 60, 
+              "weight_kg": 14.456743240356445, 
+              "individual_defense": 15, 
+              "stamina": 60, 
+              "individual_stamina": 7, 
+              "individual_attack": 12, 
+              "cp": 384, 
+              "id": 7050378399612666818
+            }
+          }, 
+          "modified_timestamp_ms": 1469576964303
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 202, 
+              "move_2": 50, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 29, 
+              "creation_time_ms": 1469533041367, 
+              "height_m": 0.34680092334747314, 
+              "stamina_max": 62, 
+              "weight_kg": 4.890979766845703, 
+              "individual_defense": 2, 
+              "stamina": 62, 
+              "individual_stamina": 7, 
+              "individual_attack": 5, 
+              "cp": 333, 
+              "id": 1460588074528866436
+            }
+          }, 
+          "modified_timestamp_ms": 1469533041382
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 129, 
+              "candy": 3
+            }
+          }, 
+          "modified_timestamp_ms": 1469538361323
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 217, 
+              "move_2": 53, 
+              "captured_cell_id": 9681725848778964992, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 90, 
+              "creation_time_ms": 1469545282526, 
+              "height_m": 0.2849695384502411, 
+              "stamina_max": 21, 
+              "weight_kg": 2.9092884063720703, 
+              "individual_defense": 14, 
+              "stamina": 21, 
+              "individual_stamina": 15, 
+              "individual_attack": 10, 
+              "cp": 106, 
+              "id": 16679936429146426268
+            }
+          }, 
+          "modified_timestamp_ms": 1469545282526
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "creation_time_ms": 1469503988211, 
+              "captured_cell_id": 9681710800033546240, 
+              "is_egg": true, 
+              "id": 2003652846742490366
+            }
+          }, 
+          "modified_timestamp_ms": 1469581072923
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 235, 
+              "move_2": 30, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 64, 
+              "creation_time_ms": 1469530519078, 
+              "height_m": 1.3908766508102417, 
+              "stamina_max": 33, 
+              "weight_kg": 67.21709442138672, 
+              "individual_defense": 13, 
+              "stamina": 33, 
+              "individual_stamina": 10, 
+              "individual_attack": 12, 
+              "cp": 241, 
+              "id": 12663769372819140288
+            }
+          }, 
+          "modified_timestamp_ms": 1469530519093
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 225, 
+              "move_2": 92, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 23, 
+              "creation_time_ms": 1469529443305, 
+              "height_m": 1.9803590774536133, 
+              "stamina_max": 33, 
+              "weight_kg": 7.893473148345947, 
+              "individual_defense": 5, 
+              "stamina": 33, 
+              "individual_stamina": 6, 
+              "individual_attack": 13, 
+              "cp": 231, 
+              "id": 14494950813825518941
+            }
+          }, 
+          "modified_timestamp_ms": 1469529443322
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 121, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 16, 
+              "creation_time_ms": 1469576744868, 
+              "height_m": 0.3222944140434265, 
+              "stamina_max": 49, 
+              "weight_kg": 2.504232883453369, 
+              "individual_defense": 14, 
+              "stamina": 49, 
+              "individual_stamina": 3, 
+              "individual_attack": 2, 
+              "cp": 318, 
+              "id": 10023399375668694572
+            }
+          }, 
+          "modified_timestamp_ms": 1469576744884
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 234, 
+              "move_2": 31, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 128, 
+              "creation_time_ms": 1469603701363, 
+              "height_m": 1.4567170143127441, 
+              "stamina_max": 85, 
+              "weight_kg": 89.15931701660156, 
+              "individual_defense": 7, 
+              "stamina": 85, 
+              "individual_stamina": 6, 
+              "cp": 775, 
+              "id": 10601762167824710680
+            }
+          }, 
+          "modified_timestamp_ms": 1469603701439
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 208, 
+              "move_2": 56, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 56, 
+              "creation_time_ms": 1469576444698, 
+              "height_m": 0.48277270793914795, 
+              "stamina_max": 52, 
+              "weight_kg": 30.31454086303711, 
+              "individual_defense": 14, 
+              "stamina": 52, 
+              "individual_stamina": 13, 
+              "individual_attack": 14, 
+              "cp": 441, 
+              "id": 2355327058063830576
+            }
+          }, 
+          "modified_timestamp_ms": 1469576444716
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 202, 
+              "move_2": 95, 
+              "captured_cell_id": 9285539523800858624, 
+              "pokeball": 1, 
+              "pokemon_id": 59, 
+              "creation_time_ms": 1469502387994, 
+              "height_m": 2.212777614593506, 
+              "stamina_max": 47, 
+              "weight_kg": 219.9651641845703, 
+              "individual_defense": 12, 
+              "stamina": 47, 
+              "individual_stamina": 4, 
+              "individual_attack": 13, 
+              "cp": 298, 
+              "id": 10921533481157223823
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 201, 
+              "move_2": 50, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 48, 
+              "creation_time_ms": 1469575436546, 
+              "height_m": 1.0993400812149048, 
+              "stamina_max": 12, 
+              "weight_kg": 37.407283782958984, 
+              "individual_defense": 6, 
+              "stamina": 12, 
+              "individual_stamina": 11, 
+              "individual_attack": 10, 
+              "cp": 13, 
+              "id": 11542124334321206793
+            }
+          }, 
+          "modified_timestamp_ms": 1469575436563
+        }, 
+        {
+          "inventory_item_data": {
+            "item": {
+              "item_id": 901, 
+              "count": 1, 
+              "unseen": true
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 202, 
+              "move_2": 131, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 58, 
+              "creation_time_ms": 1469533140134, 
+              "height_m": 0.7620782256126404, 
+              "stamina_max": 63, 
+              "weight_kg": 26.55265998840332, 
+              "individual_defense": 3, 
+              "stamina": 63, 
+              "individual_stamina": 13, 
+              "individual_attack": 11, 
+              "cp": 527, 
+              "id": 245005836849028681
+            }
+          }, 
+          "modified_timestamp_ms": 1469533140149
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 239, 
+              "move_2": 46, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 22, 
+              "creation_time_ms": 1469531853361, 
+              "height_m": 1.2540929317474365, 
+              "stamina_max": 69, 
+              "weight_kg": 37.42605209350586, 
+              "individual_defense": 6, 
+              "stamina": 69, 
+              "individual_stamina": 4, 
+              "individual_attack": 6, 
+              "cp": 664, 
+              "id": 802416904857147752
+            }
+          }, 
+          "modified_timestamp_ms": 1469531853377
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 214, 
+              "move_2": 118, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 1, 
+              "creation_time_ms": 1469516119210, 
+              "height_m": 0.7134837508201599, 
+              "stamina_max": 19, 
+              "weight_kg": 9.210188865661621, 
+              "individual_defense": 12, 
+              "stamina": 19, 
+              "individual_stamina": 1, 
+              "cp": 65, 
+              "id": 1365151533252133025
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 2, 
+              "times_encountered": 2, 
+              "pokedex_entry_number": 1
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 2
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 4
+            }
+          }, 
+          "modified_timestamp_ms": 1469574578612
+        }, 
+        {
+          "inventory_item_data": {
+            "item": {
+              "item_id": 902, 
+              "count": 5
+            }
+          }, 
+          "modified_timestamp_ms": 1469580905300
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 7
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 211, 
+              "move_2": 45, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 84, 
+              "creation_time_ms": 1469574237704, 
+              "height_m": 1.3771421909332275, 
+              "stamina_max": 40, 
+              "weight_kg": 42.16316604614258, 
+              "individual_defense": 12, 
+              "stamina": 40, 
+              "individual_stamina": 1, 
+              "individual_attack": 13, 
+              "cp": 390, 
+              "id": 16178616083765659304
+            }
+          }, 
+          "modified_timestamp_ms": 1469574237744
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "num_upgrades": 1, 
+              "move_1": 214, 
+              "move_2": 118, 
+              "captured_cell_id": 9681725959638614016, 
+              "pokeball": 1, 
+              "favorite": 1, 
+              "pokemon_id": 2, 
+              "creation_time_ms": 1468295044648, 
+              "height_m": 0.830230712890625, 
+              "stamina_max": 31, 
+              "weight_kg": 11.637911796569824, 
+              "individual_defense": 10, 
+              "stamina": 31, 
+              "individual_stamina": 12, 
+              "cp": 130, 
+              "nickname": "Ivysaur420Xx", 
+              "id": 18100879863812127887
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 8, 
+              "times_encountered": 8, 
+              "pokedex_entry_number": 10
+            }
+          }, 
+          "modified_timestamp_ms": 1469575514268
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_encountered": 1, 
+              "pokedex_entry_number": 11
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 12
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 3, 
+              "times_encountered": 6, 
+              "pokedex_entry_number": 13
+            }
+          }, 
+          "modified_timestamp_ms": 1469529556499
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 14
+            }
+          }, 
+          "modified_timestamp_ms": 1469567110680
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 108, 
+              "times_encountered": 125, 
+              "pokedex_entry_number": 16
+            }
+          }, 
+          "modified_timestamp_ms": 1469604904215
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 47, 
+              "times_encountered": 51, 
+              "pokedex_entry_number": 17
+            }
+          }, 
+          "modified_timestamp_ms": 1469604920922
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 3, 
+              "times_encountered": 3, 
+              "pokedex_entry_number": 18
+            }
+          }, 
+          "modified_timestamp_ms": 1469575054051
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 53, 
+              "times_encountered": 66, 
+              "pokedex_entry_number": 19
+            }
+          }, 
+          "modified_timestamp_ms": 1469604910086
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 3, 
+              "times_encountered": 3, 
+              "pokedex_entry_number": 20
+            }
+          }, 
+          "modified_timestamp_ms": 1469568569901
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 5, 
+              "times_encountered": 6, 
+              "pokedex_entry_number": 21
+            }
+          }, 
+          "modified_timestamp_ms": 1469576405952
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 2, 
+              "times_encountered": 2, 
+              "pokedex_entry_number": 22
+            }
+          }, 
+          "modified_timestamp_ms": 1469531853377
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 36, 
+              "times_encountered": 39, 
+              "pokedex_entry_number": 23
+            }
+          }, 
+          "modified_timestamp_ms": 1469604310922
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 24
+            }
+          }, 
+          "modified_timestamp_ms": 1469590388702
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 3, 
+              "times_encountered": 3, 
+              "pokedex_entry_number": 25
+            }
+          }, 
+          "modified_timestamp_ms": 1469527141491
+        }, 
+        {
+          "inventory_item_data": {
+            "item": {
+              "item_id": 201, 
+              "count": 10
+            }
+          }, 
+          "modified_timestamp_ms": 1469603727003
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 17, 
+              "times_encountered": 18, 
+              "pokedex_entry_number": 27
+            }
+          }, 
+          "modified_timestamp_ms": 1469576964303
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 2, 
+              "times_encountered": 2, 
+              "pokedex_entry_number": 28
+            }
+          }, 
+          "modified_timestamp_ms": 1469577276510
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 3, 
+              "times_encountered": 5, 
+              "pokedex_entry_number": 29
+            }
+          }, 
+          "modified_timestamp_ms": 1469533041382
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_encountered": 1, 
+              "pokedex_entry_number": 30
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 121, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 16, 
+              "creation_time_ms": 1469570207993, 
+              "height_m": 0.21947793662548065, 
+              "stamina_max": 35, 
+              "weight_kg": 0.9080304503440857, 
+              "individual_defense": 12, 
+              "stamina": 35, 
+              "individual_stamina": 1, 
+              "individual_attack": 12, 
+              "cp": 189, 
+              "id": 7623914848345117762
+            }
+          }, 
+          "modified_timestamp_ms": 1469570208010
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 7, 
+              "times_encountered": 10, 
+              "pokedex_entry_number": 32
+            }
+          }, 
+          "modified_timestamp_ms": 1469590694966
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 133, 
+              "candy": 19
+            }
+          }, 
+          "modified_timestamp_ms": 1469603896293
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 33
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 37
+            }
+          }, 
+          "modified_timestamp_ms": 1469544290471
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 2, 
+              "times_encountered": 2, 
+              "pokedex_entry_number": 39
+            }
+          }, 
+          "modified_timestamp_ms": 1469575750209
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 36, 
+              "times_encountered": 45, 
+              "pokedex_entry_number": 41
+            }
+          }, 
+          "modified_timestamp_ms": 1469604307948
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 2, 
+              "times_encountered": 2, 
+              "pokedex_entry_number": 42
+            }
+          }, 
+          "modified_timestamp_ms": 1469566993176
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 3, 
+              "times_encountered": 4, 
+              "pokedex_entry_number": 43
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 26, 
+              "captured_cell_id": 9681726548637384704, 
+              "pokeball": 1, 
+              "pokemon_id": 19, 
+              "creation_time_ms": 1469580983765, 
+              "height_m": 0.2991044819355011, 
+              "stamina_max": 43, 
+              "weight_kg": 2.935262680053711, 
+              "individual_defense": 10, 
+              "stamina": 43, 
+              "individual_stamina": 13, 
+              "individual_attack": 7, 
+              "cp": 295, 
+              "id": 9793947464618182115
+            }
+          }, 
+          "modified_timestamp_ms": 1469580983784
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 216, 
+              "move_2": 26, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 27, 
+              "creation_time_ms": 1469528275479, 
+              "height_m": 0.6050311326980591, 
+              "stamina_max": 53, 
+              "weight_kg": 12.077155113220215, 
+              "individual_defense": 2, 
+              "stamina": 53, 
+              "individual_stamina": 7, 
+              "individual_attack": 14, 
+              "cp": 289, 
+              "id": 5410262201588529593
+            }
+          }, 
+          "modified_timestamp_ms": 1469528275496
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 43, 
+              "times_encountered": 49, 
+              "pokedex_entry_number": 46
+            }
+          }, 
+          "modified_timestamp_ms": 1469604860361
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 47
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 21, 
+              "times_encountered": 22, 
+              "pokedex_entry_number": 48
+            }
+          }, 
+          "modified_timestamp_ms": 1469575436563
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 3, 
+              "times_encountered": 3, 
+              "pokedex_entry_number": 50
+            }
+          }, 
+          "modified_timestamp_ms": 1469562140987
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 5, 
+              "times_encountered": 6, 
+              "pokedex_entry_number": 52
+            }
+          }, 
+          "modified_timestamp_ms": 1469573922763
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 2, 
+              "pokedex_entry_number": 54
+            }
+          }, 
+          "modified_timestamp_ms": 1469538295532
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 15, 
+              "times_encountered": 16, 
+              "pokedex_entry_number": 56
+            }
+          }, 
+          "modified_timestamp_ms": 1469577582233
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 57
+            }
+          }, 
+          "modified_timestamp_ms": 1469530181055
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 216, 
+              "move_2": 96, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 50, 
+              "creation_time_ms": 1469562140974, 
+              "height_m": 0.17578117549419403, 
+              "stamina_max": 17, 
+              "weight_kg": 0.6685656309127808, 
+              "individual_defense": 11, 
+              "stamina": 17, 
+              "individual_stamina": 10, 
+              "individual_attack": 5, 
+              "cp": 206, 
+              "id": 13291012825056278292
+            }
+          }, 
+          "modified_timestamp_ms": 1469562140987
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 13, 
+              "times_encountered": 16, 
+              "pokedex_entry_number": 58
+            }
+          }, 
+          "modified_timestamp_ms": 1469603705584
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 59
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 2, 
+              "times_encountered": 2, 
+              "pokedex_entry_number": 60
+            }
+          }, 
+          "modified_timestamp_ms": 1469604546522
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 7, 
+              "times_encountered": 10, 
+              "pokedex_entry_number": 63
+            }
+          }, 
+          "modified_timestamp_ms": 1469604530341
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 2, 
+              "pokedex_entry_number": 64
+            }
+          }, 
+          "modified_timestamp_ms": 1469530519093
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 4, 
+              "times_encountered": 4, 
+              "pokedex_entry_number": 66
+            }
+          }, 
+          "modified_timestamp_ms": 1469540427961
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 69
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 201, 
+              "move_2": 133, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 14, 
+              "creation_time_ms": 1469567110652, 
+              "height_m": 0.5209851264953613, 
+              "stamina_max": 57, 
+              "weight_kg": 7.654471397399902, 
+              "individual_defense": 8, 
+              "stamina": 57, 
+              "individual_stamina": 14, 
+              "cp": 181, 
+              "id": 10727080419855920207
+            }
+          }, 
+          "modified_timestamp_ms": 1469567110680
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 202, 
+              "move_2": 16, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 52, 
+              "creation_time_ms": 1469566746810, 
+              "height_m": 0.42732757329940796, 
+              "stamina_max": 36, 
+              "weight_kg": 5.320073127746582, 
+              "individual_defense": 7, 
+              "stamina": 36, 
+              "individual_stamina": 6, 
+              "individual_attack": 13, 
+              "cp": 194, 
+              "id": 17296398961942521385
+            }
+          }, 
+          "modified_timestamp_ms": 1469566746838
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 90, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 41, 
+              "creation_time_ms": 1469575726910, 
+              "height_m": 0.8873125314712524, 
+              "stamina_max": 41, 
+              "weight_kg": 10.800521850585938, 
+              "individual_defense": 13, 
+              "stamina": 41, 
+              "individual_stamina": 10, 
+              "individual_attack": 8, 
+              "cp": 197, 
+              "id": 15560908729861019603
+            }
+          }, 
+          "modified_timestamp_ms": 1469575726928
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 19, 
+              "times_encountered": 19, 
+              "pokedex_entry_number": 74
+            }
+          }, 
+          "modified_timestamp_ms": 1469577355542
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 75
+            }
+          }, 
+          "modified_timestamp_ms": 1469603720603
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 11, 
+              "times_encountered": 12, 
+              "pokedex_entry_number": 77
+            }
+          }, 
+          "modified_timestamp_ms": 1469603693150
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 78
+            }
+          }, 
+          "modified_timestamp_ms": 1469590288214
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 201, 
+              "move_2": 30, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 48, 
+              "creation_time_ms": 1469567276947, 
+              "height_m": 1.1028661727905273, 
+              "stamina_max": 68, 
+              "weight_kg": 45.63296890258789, 
+              "individual_defense": 15, 
+              "stamina": 68, 
+              "individual_stamina": 13, 
+              "individual_attack": 12, 
+              "cp": 427, 
+              "id": 18336772876634640086
+            }
+          }, 
+          "modified_timestamp_ms": 1469567276964
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 235, 
+              "move_2": 99, 
+              "captured_cell_id": 9681726548637384704, 
+              "pokeball": 1, 
+              "pokemon_id": 12, 
+              "creation_time_ms": 1469155115568, 
+              "height_m": 1.0345211029052734, 
+              "stamina_max": 11, 
+              "weight_kg": 24.98436164855957, 
+              "individual_defense": 2, 
+              "stamina": 11, 
+              "individual_stamina": 7, 
+              "individual_attack": 1, 
+              "cp": 17, 
+              "id": 6983932784823177329
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 8, 
+              "times_encountered": 8, 
+              "pokedex_entry_number": 84
+            }
+          }, 
+          "modified_timestamp_ms": 1469574900598
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 235, 
+              "move_2": 30, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 48, 
+              "creation_time_ms": 1469574836255, 
+              "height_m": 1.1657919883728027, 
+              "stamina_max": 32, 
+              "weight_kg": 46.1574592590332, 
+              "individual_defense": 3, 
+              "stamina": 32, 
+              "individual_stamina": 8, 
+              "individual_attack": 13, 
+              "cp": 98, 
+              "id": 8817433538693731010
+            }
+          }, 
+          "modified_timestamp_ms": 1469574836282
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 90
+            }
+          }, 
+          "modified_timestamp_ms": 1469545282526
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_encountered": 2, 
+              "pokedex_entry_number": 95
+            }
+          }, 
+          "modified_timestamp_ms": 1469525559613
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 4, 
+              "times_encountered": 4, 
+              "pokedex_entry_number": 98
+            }
+          }, 
+          "modified_timestamp_ms": 1469580902894
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 59, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 46, 
+              "creation_time_ms": 1469572154091, 
+              "height_m": 0.27734073996543884, 
+              "stamina_max": 27, 
+              "weight_kg": 5.257627010345459, 
+              "individual_defense": 14, 
+              "stamina": 27, 
+              "individual_stamina": 8, 
+              "individual_attack": 15, 
+              "cp": 170, 
+              "id": 18130296494401167629
+            }
+          }, 
+          "modified_timestamp_ms": 1469572154108
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 2, 
+              "times_encountered": 2, 
+              "pokedex_entry_number": 102
+            }
+          }, 
+          "modified_timestamp_ms": 1469575454896
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 4, 
+              "times_encountered": 5, 
+              "pokedex_entry_number": 104
+            }
+          }, 
+          "modified_timestamp_ms": 1469541412117
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 59, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 46, 
+              "creation_time_ms": 1469575508969, 
+              "height_m": 0.2716350257396698, 
+              "stamina_max": 36, 
+              "weight_kg": 5.0483527183532715, 
+              "individual_defense": 12, 
+              "stamina": 36, 
+              "individual_stamina": 12, 
+              "individual_attack": 12, 
+              "cp": 273, 
+              "id": 18188286041669840463
+            }
+          }, 
+          "modified_timestamp_ms": 1469575508988
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 7, 
+              "times_encountered": 8, 
+              "pokedex_entry_number": 111
+            }
+          }, 
+          "modified_timestamp_ms": 1469576668611
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 234, 
+              "move_2": 126, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 128, 
+              "creation_time_ms": 1469573319936, 
+              "height_m": 1.4732106924057007, 
+              "stamina_max": 77, 
+              "weight_kg": 91.100341796875, 
+              "individual_defense": 11, 
+              "stamina": 77, 
+              "individual_attack": 3, 
+              "cp": 691, 
+              "id": 4289619466961876654
+            }
+          }, 
+          "modified_timestamp_ms": 1469573320029
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 227, 
+              "move_2": 26, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 74, 
+              "creation_time_ms": 1469548371407, 
+              "height_m": 0.4041292369365692, 
+              "stamina_max": 38, 
+              "weight_kg": 21.542919158935547, 
+              "individual_defense": 5, 
+              "stamina": 38, 
+              "individual_stamina": 12, 
+              "individual_attack": 13, 
+              "cp": 225, 
+              "id": 18206192004975960718
+            }
+          }, 
+          "modified_timestamp_ms": 1469548371426
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 74, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 128, 
+              "creation_time_ms": 1469569985379, 
+              "height_m": 1.263436198234558, 
+              "stamina_max": 78, 
+              "weight_kg": 82.69879150390625, 
+              "individual_defense": 10, 
+              "stamina": 78, 
+              "individual_stamina": 2, 
+              "individual_attack": 2, 
+              "cp": 689, 
+              "id": 1858450486346729951
+            }
+          }, 
+          "modified_timestamp_ms": 1469569985399
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 118
+            }
+          }, 
+          "modified_timestamp_ms": 1469604567614
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 2, 
+              "times_encountered": 2, 
+              "pokedex_entry_number": 120
+            }
+          }, 
+          "modified_timestamp_ms": 1469574845799
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 208, 
+              "move_2": 56, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 66, 
+              "creation_time_ms": 1469538019524, 
+              "height_m": 0.9406192898750305, 
+              "stamina_max": 70, 
+              "weight_kg": 24.398298263549805, 
+              "individual_defense": 9, 
+              "stamina": 70, 
+              "individual_stamina": 12, 
+              "individual_attack": 12, 
+              "cp": 351, 
+              "id": 13526820510555476778
+            }
+          }, 
+          "modified_timestamp_ms": 1469538019541
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 121
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 2, 
+              "times_encountered": 2, 
+              "pokedex_entry_number": 125
+            }
+          }, 
+          "modified_timestamp_ms": 1469565769834
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 22, 
+              "times_encountered": 24, 
+              "pokedex_entry_number": 126
+            }
+          }, 
+          "modified_timestamp_ms": 1469603714473
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 2, 
+              "times_encountered": 4, 
+              "pokedex_entry_number": 127
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 241, 
+              "move_2": 95, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 104, 
+              "creation_time_ms": 1469541412103, 
+              "height_m": 0.36605727672576904, 
+              "stamina_max": 58, 
+              "weight_kg": 4.154928684234619, 
+              "individual_defense": 15, 
+              "stamina": 58, 
+              "individual_stamina": 14, 
+              "individual_attack": 6, 
+              "cp": 396, 
+              "id": 16217007432566918003
+            }
+          }, 
+          "modified_timestamp_ms": 1469541412117
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "creation_time_ms": 1469573072293, 
+              "captured_cell_id": 9681710799760916480, 
+              "is_egg": true, 
+              "id": 3202834156162165367
+            }
+          }, 
+          "modified_timestamp_ms": 1469581069391
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 80, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 16, 
+              "creation_time_ms": 1469566941761, 
+              "height_m": 0.3037039339542389, 
+              "stamina_max": 39, 
+              "weight_kg": 1.9819464683532715, 
+              "individual_defense": 10, 
+              "stamina": 39, 
+              "individual_stamina": 14, 
+              "individual_attack": 3, 
+              "cp": 167, 
+              "id": 7510743383251776768
+            }
+          }, 
+          "modified_timestamp_ms": 1469566941778
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 105, 
+              "captured_cell_id": 9681725853925376000, 
+              "pokemon_id": 7, 
+              "creation_time_ms": 1467878546820, 
+              "height_m": 0.6300575733184814, 
+              "stamina_max": 10, 
+              "weight_kg": 15.150253295898438, 
+              "individual_defense": 10, 
+              "stamina": 10, 
+              "individual_stamina": 10, 
+              "individual_attack": 10, 
+              "cp": 13, 
+              "id": 15455774579474613733
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "num_upgrades": 3, 
+              "move_1": 208, 
+              "move_2": 103, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 126, 
+              "creation_time_ms": 1469570567614, 
+              "height_m": 1.1607764959335327, 
+              "stamina_max": 87, 
+              "weight_kg": 33.95344924926758, 
+              "individual_defense": 9, 
+              "stamina": 87, 
+              "individual_stamina": 11, 
+              "individual_attack": 2, 
+              "cp": 1271, 
+              "id": 10284684619401941596
+            }
+          }, 
+          "modified_timestamp_ms": 1469590163953
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 235, 
+              "move_2": 99, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 48, 
+              "creation_time_ms": 1469544921066, 
+              "height_m": 0.90590500831604, 
+              "stamina_max": 72, 
+              "weight_kg": 26.523160934448242, 
+              "individual_defense": 4, 
+              "stamina": 72, 
+              "individual_stamina": 12, 
+              "individual_attack": 9, 
+              "cp": 450, 
+              "id": 226821962551007666
+            }
+          }, 
+          "modified_timestamp_ms": 1469544921082
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 133, 
+              "captured_cell_id": 9681726548637384704, 
+              "pokeball": 1, 
+              "pokemon_id": 10, 
+              "creation_time_ms": 1469517888356, 
+              "height_m": 0.22368136048316956, 
+              "stamina_max": 46, 
+              "weight_kg": 2.111487865447998, 
+              "individual_defense": 11, 
+              "stamina": 46, 
+              "individual_stamina": 10, 
+              "cp": 116, 
+              "id": 13432039910551453114
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 63, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 74, 
+              "creation_time_ms": 1469572644552, 
+              "height_m": 0.37506723403930664, 
+              "stamina_max": 36, 
+              "weight_kg": 21.94875144958496, 
+              "individual_defense": 9, 
+              "stamina": 36, 
+              "individual_stamina": 12, 
+              "individual_attack": 9, 
+              "cp": 198, 
+              "id": 1982226922827830168
+            }
+          }, 
+          "modified_timestamp_ms": 1469572644569
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "num_upgrades": 1, 
+              "move_1": 205, 
+              "move_2": 35, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 135, 
+              "creation_time_ms": 1469571453865, 
+              "height_m": 0.7039638161659241, 
+              "stamina_max": 82, 
+              "weight_kg": 4.511841297149658, 
+              "individual_defense": 3, 
+              "stamina": 82, 
+              "individual_stamina": 10, 
+              "individual_attack": 15, 
+              "cp": 1133, 
+              "nickname": "Sparky", 
+              "id": 16360201201544663415
+            }
+          }, 
+          "modified_timestamp_ms": 1469593161091
+        }, 
+        {
+          "inventory_item_data": {
+            "item": {
+              "item_id": 301, 
+              "count": 2
+            }
+          }, 
+          "modified_timestamp_ms": 1469580905300
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 138, 
+              "candy": 10
+            }
+          }, 
+          "modified_timestamp_ms": 1469577029446
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 26, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 74, 
+              "creation_time_ms": 1469542558312, 
+              "height_m": 0.4480931758880615, 
+              "stamina_max": 34, 
+              "weight_kg": 20.233388900756836, 
+              "individual_defense": 10, 
+              "stamina": 34, 
+              "individual_stamina": 13, 
+              "individual_attack": 11, 
+              "cp": 179, 
+              "id": 9866218461390326347
+            }
+          }, 
+          "modified_timestamp_ms": 1469542558326
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 26, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 19, 
+              "creation_time_ms": 1469566519909, 
+              "height_m": 0.333290159702301, 
+              "stamina_max": 40, 
+              "weight_kg": 3.57340407371521, 
+              "individual_defense": 13, 
+              "stamina": 40, 
+              "individual_stamina": 13, 
+              "individual_attack": 3, 
+              "cp": 245, 
+              "id": 16279022501932702450
+            }
+          }, 
+          "modified_timestamp_ms": 1469566519923
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 80, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 21, 
+              "creation_time_ms": 1469576405926, 
+              "height_m": 0.3663198947906494, 
+              "stamina_max": 37, 
+              "weight_kg": 3.029853582382202, 
+              "individual_defense": 12, 
+              "stamina": 37, 
+              "individual_stamina": 9, 
+              "individual_attack": 6, 
+              "cp": 172, 
+              "id": 13702519185839163205
+            }
+          }, 
+          "modified_timestamp_ms": 1469576405952
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 216, 
+              "move_2": 105, 
+              "captured_cell_id": 9681710800501211136, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 98, 
+              "creation_time_ms": 1469580902893, 
+              "height_m": 0.34365513920783997, 
+              "stamina_max": 24, 
+              "weight_kg": 5.297724723815918, 
+              "individual_defense": 10, 
+              "stamina": 24, 
+              "individual_stamina": 10, 
+              "individual_attack": 14, 
+              "cp": 145, 
+              "id": 488230697406739452
+            }
+          }, 
+          "modified_timestamp_ms": 1469580902893
+        }, 
+        {
+          "inventory_item_data": {
+            "applied_items": {
+              "item": [
+                {
+                  "item_id": 301, 
+                  "item_type": 11, 
+                  "applied_ms": 1469545360786, 
+                  "expire_ms": 1469547160786
+                }
+              ]
+            }
+          }, 
+          "modified_timestamp_ms": 1469545360787
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 202, 
+              "move_2": 21, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 58, 
+              "creation_time_ms": 1469568497730, 
+              "height_m": 0.8813781142234802, 
+              "stamina_max": 63, 
+              "weight_kg": 29.57586669921875, 
+              "individual_defense": 9, 
+              "stamina": 63, 
+              "individual_stamina": 13, 
+              "individual_attack": 14, 
+              "cp": 550, 
+              "id": 8328295861661752475
+            }
+          }, 
+          "modified_timestamp_ms": 1469568497750
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 89, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 46, 
+              "creation_time_ms": 1469577961159, 
+              "height_m": 0.2382250875234604, 
+              "stamina_max": 41, 
+              "weight_kg": 3.555349826812744, 
+              "individual_defense": 9, 
+              "stamina": 41, 
+              "individual_stamina": 5, 
+              "individual_attack": 12, 
+              "cp": 399, 
+              "id": 8287566250745330876
+            }
+          }, 
+          "modified_timestamp_ms": 1469577961177
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_family": {
+              "family_id": 140, 
+              "candy": 11
+            }
+          }, 
+          "modified_timestamp_ms": 1469603942519
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 80, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 16, 
+              "creation_time_ms": 1469565658280, 
+              "height_m": 0.3436215817928314, 
+              "stamina_max": 41, 
+              "weight_kg": 2.1020100116729736, 
+              "individual_defense": 14, 
+              "stamina": 41, 
+              "individual_stamina": 13, 
+              "individual_attack": 1, 
+              "cp": 183, 
+              "id": 7813046516060285506
+            }
+          }, 
+          "modified_timestamp_ms": 1469565658298
+        }, 
+        {
+          "inventory_item_data": {
+            "player_stats": {
+              "pokemons_captured": 554, 
+              "km_walked": 20.383258819580078, 
+              "level": 20, 
+              "experience": 250585, 
+              "pokemons_encountered": 639, 
+              "pokeballs_thrown": 757, 
+              "eggs_hatched": 7, 
+              "small_rattata_caught": 7, 
+              "unique_pokedex_entries": 65, 
+              "prev_level_xp": 185000, 
+              "evolutions": 44, 
+              "next_level_xp": 260000, 
+              "pokemon_caught_by_type": "AJECFNQBdjUhUAAAMhM1BgsAAAAC", 
+              "poke_stop_visits": 1205
+            }
+          }, 
+          "modified_timestamp_ms": 1469605030199
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 45, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 16, 
+              "creation_time_ms": 1469576724686, 
+              "height_m": 0.2673603892326355, 
+              "stamina_max": 38, 
+              "weight_kg": 1.7888139486312866, 
+              "individual_defense": 15, 
+              "stamina": 38, 
+              "individual_stamina": 11, 
+              "individual_attack": 1, 
+              "cp": 165, 
+              "id": 248763991341360184
+            }
+          }, 
+          "modified_timestamp_ms": 1469576724747
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 210, 
+              "move_2": 121, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 42, 
+              "creation_time_ms": 1469548473800, 
+              "height_m": 1.7010220289230347, 
+              "stamina_max": 72, 
+              "weight_kg": 53.1790771484375, 
+              "individual_defense": 3, 
+              "stamina": 72, 
+              "individual_stamina": 7, 
+              "individual_attack": 11, 
+              "cp": 606, 
+              "id": 13954198972038251629
+            }
+          }, 
+          "modified_timestamp_ms": 1469548473813
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 208, 
+              "move_2": 24, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 126, 
+              "creation_time_ms": 1469603714458, 
+              "height_m": 1.3691127300262451, 
+              "stamina_max": 84, 
+              "weight_kg": 41.922279357910156, 
+              "individual_defense": 7, 
+              "stamina": 84, 
+              "individual_stamina": 12, 
+              "cp": 1169, 
+              "id": 7358631155394037123
+            }
+          }, 
+          "modified_timestamp_ms": 1469603714473
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 100, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 46, 
+              "creation_time_ms": 1469540772751, 
+              "height_m": 0.2836759090423584, 
+              "stamina_max": 42, 
+              "weight_kg": 6.116790294647217, 
+              "individual_defense": 4, 
+              "stamina": 42, 
+              "individual_stamina": 7, 
+              "individual_attack": 12, 
+              "cp": 397, 
+              "id": 839548216153570537
+            }
+          }, 
+          "modified_timestamp_ms": 1469540772782
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 202, 
+              "move_2": 90, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 41, 
+              "creation_time_ms": 1469569148342, 
+              "height_m": 0.8189844489097595, 
+              "stamina_max": 10, 
+              "weight_kg": 8.381525039672852, 
+              "individual_defense": 5, 
+              "stamina": 10, 
+              "individual_stamina": 8, 
+              "individual_attack": 11, 
+              "cp": 10, 
+              "id": 7460399517954640280
+            }
+          }, 
+          "modified_timestamp_ms": 1469569148364
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 201, 
+              "move_2": 133, 
+              "captured_cell_id": 9681726548637384704, 
+              "pokeball": 1, 
+              "pokemon_id": 13, 
+              "creation_time_ms": 1469517695126, 
+              "height_m": 0.2988986372947693, 
+              "stamina_max": 38, 
+              "weight_kg": 3.5275869369506836, 
+              "individual_defense": 10, 
+              "stamina": 38, 
+              "individual_stamina": 6, 
+              "individual_attack": 1, 
+              "cp": 108, 
+              "id": 4345604855054476753
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 121, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 41, 
+              "creation_time_ms": 1469569406183, 
+              "height_m": 0.7326123118400574, 
+              "stamina_max": 21, 
+              "weight_kg": 6.046561241149902, 
+              "individual_defense": 14, 
+              "stamina": 21, 
+              "individual_stamina": 6, 
+              "individual_attack": 8, 
+              "cp": 59, 
+              "id": 17592561472442997483
+            }
+          }, 
+          "modified_timestamp_ms": 1469569406200
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 208, 
+              "move_2": 123, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 56, 
+              "creation_time_ms": 1469567346744, 
+              "height_m": 0.5775215029716492, 
+              "stamina_max": 47, 
+              "weight_kg": 33.15293884277344, 
+              "individual_defense": 5, 
+              "stamina": 47, 
+              "individual_stamina": 15, 
+              "individual_attack": 14, 
+              "cp": 332, 
+              "id": 3225707804897817792
+            }
+          }, 
+          "modified_timestamp_ms": 1469567346770
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 57, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 140, 
+              "creation_time_ms": 1469548380268, 
+              "height_m": 0.5711900591850281, 
+              "stamina_max": 34, 
+              "weight_kg": 12.115419387817383, 
+              "individual_defense": 6, 
+              "stamina": 34, 
+              "individual_stamina": 5, 
+              "individual_attack": 15, 
+              "cp": 456, 
+              "id": 17750005108349801089
+            }
+          }, 
+          "modified_timestamp_ms": 1469548380286
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 216, 
+              "move_2": 53, 
+              "captured_cell_id": 9926596584236122112, 
+              "pokeball": 1, 
+              "pokemon_id": 60, 
+              "creation_time_ms": 1469604546508, 
+              "height_m": 0.5086597800254822, 
+              "stamina_max": 15, 
+              "weight_kg": 7.350425720214844, 
+              "individual_defense": 11, 
+              "stamina": 15, 
+              "individual_stamina": 14, 
+              "individual_attack": 4, 
+              "cp": 31, 
+              "id": 14076429317014447995
+            }
+          }, 
+          "modified_timestamp_ms": 1469604546522
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 207, 
+              "move_2": 103, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 78, 
+              "creation_time_ms": 1469538921266, 
+              "height_m": 1.462523102760315, 
+              "stamina_max": 73, 
+              "weight_kg": 10.194890022277832, 
+              "individual_defense": 5, 
+              "stamina": 73, 
+              "individual_stamina": 13, 
+              "individual_attack": 12, 
+              "cp": 897, 
+              "id": 17126269756485375699
+            }
+          }, 
+          "modified_timestamp_ms": 1469590288214
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 21, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 77, 
+              "creation_time_ms": 1469569114400, 
+              "height_m": 1.0106806755065918, 
+              "stamina_max": 57, 
+              "weight_kg": 29.90016746520996, 
+              "individual_defense": 3, 
+              "stamina": 57, 
+              "individual_stamina": 11, 
+              "individual_attack": 13, 
+              "cp": 606, 
+              "id": 10773330036709329322
+            }
+          }, 
+          "modified_timestamp_ms": 1469569114427
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 202, 
+              "move_2": 131, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 58, 
+              "creation_time_ms": 1469562221229, 
+              "height_m": 0.70773845911026, 
+              "stamina_max": 58, 
+              "weight_kg": 21.245460510253906, 
+              "individual_defense": 7, 
+              "stamina": 58, 
+              "individual_stamina": 4, 
+              "individual_attack": 14, 
+              "cp": 525, 
+              "id": 11975955769060162379
+            }
+          }, 
+          "modified_timestamp_ms": 1469562221244
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 201, 
+              "move_2": 116, 
+              "captured_cell_id": 9285539523800858624, 
+              "pokeball": 1, 
+              "pokemon_id": 47, 
+              "creation_time_ms": 1469502394487, 
+              "height_m": 0.8724072575569153, 
+              "stamina_max": 11, 
+              "weight_kg": 22.282550811767578, 
+              "individual_defense": 6, 
+              "stamina": 11, 
+              "individual_stamina": 6, 
+              "individual_attack": 11, 
+              "cp": 22, 
+              "id": 7885628612458663155
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 236, 
+              "move_2": 90, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 23, 
+              "creation_time_ms": 1469545027188, 
+              "height_m": 2.0376060009002686, 
+              "stamina_max": 41, 
+              "weight_kg": 7.10191535949707, 
+              "individual_defense": 5, 
+              "stamina": 41, 
+              "individual_stamina": 7, 
+              "individual_attack": 13, 
+              "cp": 338, 
+              "id": 10331649322251472561
+            }
+          }, 
+          "modified_timestamp_ms": 1469545027204
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 25, 
+              "times_encountered": 25, 
+              "pokedex_entry_number": 128
+            }
+          }, 
+          "modified_timestamp_ms": 1469603701439
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 210, 
+              "move_2": 121, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 17, 
+              "creation_time_ms": 1469563151901, 
+              "height_m": 0.954918622970581, 
+              "stamina_max": 70, 
+              "weight_kg": 0.3392435312271118, 
+              "individual_defense": 5, 
+              "stamina": 70, 
+              "individual_stamina": 2, 
+              "individual_attack": 2, 
+              "cp": 495, 
+              "id": 2976041614690098414
+            }
+          }, 
+          "modified_timestamp_ms": 1469563413674
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 121, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 41, 
+              "creation_time_ms": 1469563181005, 
+              "height_m": 0.9536859393119812, 
+              "stamina_max": 48, 
+              "weight_kg": 11.399333000183105, 
+              "individual_defense": 1, 
+              "stamina": 48, 
+              "individual_stamina": 3, 
+              "individual_attack": 11, 
+              "cp": 291, 
+              "id": 10848279371936019150
+            }
+          }, 
+          "modified_timestamp_ms": 1469563181021
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 201, 
+              "move_2": 50, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 48, 
+              "creation_time_ms": 1469567572461, 
+              "height_m": 0.9223456382751465, 
+              "stamina_max": 32, 
+              "weight_kg": 23.00132942199707, 
+              "individual_defense": 13, 
+              "stamina": 32, 
+              "individual_stamina": 8, 
+              "individual_attack": 10, 
+              "cp": 99, 
+              "id": 4340455039668392191
+            }
+          }, 
+          "modified_timestamp_ms": 1469567572488
+        }, 
+        {
+          "inventory_item_data": {
+            "item": {
+              "item_id": 401, 
+              "count": 5
+            }
+          }, 
+          "modified_timestamp_ms": 1469580905300
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 208, 
+              "move_2": 28, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 56, 
+              "creation_time_ms": 1469572125174, 
+              "height_m": 0.5346503853797913, 
+              "stamina_max": 51, 
+              "weight_kg": 33.424556732177734, 
+              "individual_defense": 14, 
+              "stamina": 51, 
+              "individual_stamina": 10, 
+              "individual_attack": 14, 
+              "cp": 434, 
+              "id": 6851413436779164552
+            }
+          }, 
+          "modified_timestamp_ms": 1469572125194
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 211, 
+              "move_2": 45, 
+              "captured_cell_id": 9681726548637384704, 
+              "pokeball": 1, 
+              "pokemon_id": 21, 
+              "creation_time_ms": 1469517814469, 
+              "height_m": 0.279098778963089, 
+              "stamina_max": 34, 
+              "weight_kg": 1.8373138904571533, 
+              "individual_defense": 8, 
+              "stamina": 34, 
+              "individual_stamina": 12, 
+              "individual_attack": 10, 
+              "cp": 140, 
+              "id": 4976692065050817590
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 26, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 133, 
+              "creation_time_ms": 1469563117371, 
+              "height_m": 0.3258935511112213, 
+              "stamina_max": 68, 
+              "weight_kg": 8.093783378601074, 
+              "individual_defense": 15, 
+              "stamina": 68, 
+              "individual_stamina": 15, 
+              "individual_attack": 15, 
+              "cp": 523, 
+              "id": 5414552436897723032
+            }
+          }, 
+          "modified_timestamp_ms": 1469563117387
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 219, 
+              "move_2": 78, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 25, 
+              "creation_time_ms": 1469527141475, 
+              "height_m": 0.42658597230911255, 
+              "stamina_max": 42, 
+              "weight_kg": 5.678633689880371, 
+              "individual_defense": 7, 
+              "stamina": 42, 
+              "individual_stamina": 13, 
+              "individual_attack": 8, 
+              "cp": 345, 
+              "id": 15628349346829706250
+            }
+          }, 
+          "modified_timestamp_ms": 1469527141491
+        }, 
+        {
+          "inventory_item_data": {
+            "pokedex_entry": {
+              "times_captured": 1, 
+              "times_encountered": 1, 
+              "pokedex_entry_number": 129
+            }
+          }, 
+          "modified_timestamp_ms": 1469538361323
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 221, 
+              "move_2": 129, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 19, 
+              "creation_time_ms": 1469548364471, 
+              "height_m": 0.3383815586566925, 
+              "stamina_max": 36, 
+              "weight_kg": 4.446247577667236, 
+              "individual_defense": 13, 
+              "stamina": 36, 
+              "individual_stamina": 15, 
+              "individual_attack": 5, 
+              "cp": 193, 
+              "id": 15926534589575998215
+            }
+          }, 
+          "modified_timestamp_ms": 1469548364489
+        }, 
+        {
+          "inventory_item_data": {
+            "item": {
+              "item_id": 501, 
+              "count": 5
+            }
+          }, 
+          "modified_timestamp_ms": 1469580905300
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 202, 
+              "move_2": 121, 
+              "captured_cell_id": 9681717752544362496, 
+              "pokeball": 1, 
+              "pokemon_id": 41, 
+              "creation_time_ms": 1469573068903, 
+              "height_m": 0.8167290687561035, 
+              "stamina_max": 26, 
+              "weight_kg": 8.516481399536133, 
+              "individual_defense": 14, 
+              "stamina": 26, 
+              "individual_stamina": 12, 
+              "individual_attack": 11, 
+              "cp": 81, 
+              "id": 2769076654395404635
+            }
+          }, 
+          "modified_timestamp_ms": 1469573068922
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 216, 
+              "move_2": 104, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 138, 
+              "creation_time_ms": 1469531024612, 
+              "height_m": 0.45976078510284424, 
+              "stamina_max": 41, 
+              "weight_kg": 9.890205383300781, 
+              "individual_defense": 10, 
+              "stamina": 41, 
+              "individual_stamina": 10, 
+              "individual_attack": 15, 
+              "cp": 458, 
+              "id": 8992187733770700462
+            }
+          }, 
+          "modified_timestamp_ms": 1469531024658
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 215, 
+              "move_2": 90, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 43, 
+              "creation_time_ms": 1469506892676, 
+              "height_m": 0.49521997570991516, 
+              "stamina_max": 32, 
+              "weight_kg": 4.874688148498535, 
+              "individual_defense": 6, 
+              "stamina": 32, 
+              "individual_stamina": 11, 
+              "individual_attack": 7, 
+              "cp": 170, 
+              "id": 4771851547296735192
+            }
+          }
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 220, 
+              "move_2": 102, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "from_fort": 1, 
+              "pokemon_id": 4, 
+              "creation_time_ms": 1469574578587, 
+              "height_m": 0.6247981786727905, 
+              "stamina_max": 28, 
+              "weight_kg": 9.112706184387207, 
+              "individual_defense": 10, 
+              "stamina": 28, 
+              "individual_stamina": 3, 
+              "cp": 152, 
+              "id": 2257433902781017692
+            }
+          }, 
+          "modified_timestamp_ms": 1469574578612
+        }, 
+        {
+          "inventory_item_data": {
+            "pokemon_data": {
+              "move_1": 202, 
+              "move_2": 90, 
+              "captured_cell_id": 9681711155474595840, 
+              "pokeball": 1, 
+              "pokemon_id": 41, 
+              "creation_time_ms": 1469541675050, 
+              "height_m": 0.9936962723731995, 
+              "stamina_max": 51, 
+              "weight_kg": 11.303104400634766, 
+              "individual_defense": 8, 
+              "stamina": 51, 
+              "individual_stamina": 11, 
+              "individual_attack": 7, 
+              "cp": 288, 
+              "id": 2232389636672810273
+            }
+          }, 
+          "modified_timestamp_ms": 1469541675067
+        }
+      ], 
+      "new_timestamp_ms": 1469605113668
+    }, 
+    "success": true
+  }, 
+  "lng": -122.1397526, 
+  "CHECK_AWARDED_BADGES": {
+    "success": true
+  }, 
+  "GET_PLAYER": {
+    "player_data": {
+      "username": "f000000", 
+      "equipped_badge": {}, 
+      "currencies": [
+        {
+          "name": "POKECOIN"
+        }, 
+        {
+          "amount": 54011, 
+          "name": "STARDUST"
+        }
+      ], 
+      "tutorial_state": [
+        0, 
+        1, 
+        3, 
+        4, 
+        7
+      ], 
+      "contact_settings": {
+        "send_marketing_emails": true
+      }, 
+      "max_item_storage": 350, 
+      "creation_timestamp_ms": 1467878474609, 
+      "daily_bonus": {}, 
+      "avatar": {
+        "shoes": 2, 
+        "pants": 2
+      }, 
+      "team": 3, 
+      "max_pokemon_storage": 250
+    }, 
+    "success": true
+  }
+}
