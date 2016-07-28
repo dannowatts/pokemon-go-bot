@@ -5,7 +5,7 @@
         "password": "PASSWORD",
         "location": "San Antonio, TX",
         "USE_GOOGLE": true,
-        "GMAPS_API_KEY": "AIzaSyA36XQi18RYQrcAKIfyG5j0Fj7MVN26mAs",
+        "GMAPS_API_KEY": "APIKEY",
         "MIN_KEEP_IV" : 50,
         "KEEP_CP_OVER": 500,
         "STEP_SIZE": 100
